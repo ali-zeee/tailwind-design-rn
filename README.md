@@ -1,4 +1,3 @@
-```markdown
 # React Native Tailwind Starter
 
 🚀 A **React Native** project starter using **Tailwind CSS** for fast and responsive UI development.
@@ -110,13 +109,11 @@ module.exports = {
 
 ### Screenshots
 
-| Login Page                                | Onboarding Page                          |
-|--------------------------------------------|---------------------------------------------|
-| ![Screenshot_1725633917](https://github.com/user-attachments/assets/472e4743-8611-44dd-8771-02f5444027bd) | ![Screenshot_1725633850](https://github.com/user-attachments/assets/74e9c546-5e4f-4a8d-9c20-50164d05c07e) |
+| ![LoginPage](https://github.com/user-attachments/assets/b87d9ac1-0218-4eb2-bcfe-2238da57ada2) | ![Screenshot_1725634531](https://github.com/user-attachments/assets/629469f5-d72e-49a9-85da-be0a31def0bc) |
+|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+| ![Screenshot_1725633857](https://github.com/user-attachments/assets/9ac435bc-d747-432a-8af8-e6f4f14bd945) | ![Screenshot_1725633850](https://github.com/user-attachments/assets/ed8fda91-0d2b-46b0-a33c-7b8da9181859) |
 
-| Onboarding Page              | Signup Page               |
-|--------------------------------------------|---------------------------------------------|
-| ![Screenshot_1725633844](https://github.com/user-attachments/assets/5280dd1b-d77a-432d-acd3-b759d1b46334) | ![Screenshot_1725634531](https://github.com/user-attachments/assets/c9f91b5e-1d38-438f-8e54-9b6189e53cd7) |
+
 
 
 
